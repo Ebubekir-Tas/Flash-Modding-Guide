@@ -40,11 +40,17 @@ Step 4: Right click DefineSprite (XXXX) and click replace. Upload image of color
 - prereqs: JPEXS, text editor for SVG editing
 
 Step 1: Navigate to character's head sprite /sprites/DefineSprite (974) or (1007) in 588.
+
 Step 2: Expand frame 1. Identify "PlaceObject2 (7914)
+
 Step 3: Navigate to /shapes/DefineShapeX (7914)
+
 Step 4: Right click and export selection, export as SVG.
+
 Step 5: Navigate to SVG file and open in text editor. Find the HEX code, for example #000000 and replace with new hex code such as #0066CC
+
 Step 6: Go back to the same DefineShape (7914) file, right click and Replace
+
 Step: 7 Replace with the SVG that you modified the hex color of.
 
 optional repeat steps with sprite 301.
