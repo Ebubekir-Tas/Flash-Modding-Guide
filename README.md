@@ -237,6 +237,11 @@ Now if you want you can get a backup indicatorMC83 from a different SWF file and
 
 ![Recording17-ezgif com-crop](https://github.com/Ebubekir-Tas/Flash-Modding-Guide/assets/65694925/324db961-bb6a-47a9-952e-875e506e2320)
 
+* Custom Pets [medium]
+
+![ezgif com-crop](https://github.com/Ebubekir-Tas/Flash-Modding-Guide/assets/65694925/27e7986b-d941-41d2-8f4b-2f04479314ea)
+
+
 * Bypass Sitelocking
 
 * Interception of HTTP Requests with NGROK to diagnose the loading screen problems that come out of the box with 588 and 598 SWF versions
