@@ -60,7 +60,7 @@ I made mine Spongebob, this requires making your own custom SVG.
 ![image](https://github.com/Ebubekir-Tas/Flash-Modding-Guide/assets/65694925/7c04296f-6b64-475b-8642-31de968ac829)
 
 
-### Extend spinner shop with custom [expert]
+### Extend spinner shop with custom spinners [expert]
 - prereqs: Everything. Don't try this at home.
 
 This is a long one so instead of being split into steps it will be split into parts. 
