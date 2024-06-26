@@ -15,7 +15,7 @@ In this guide, we'll dive deep into the world of Flash reverse engineering with 
 * Basic understanding of ActionScript code
 * Basic understanding of MySQL
 * VScode or equivalent text editor (at least something better than notepad)
-* Understanding of tools for debugging such as a browser with a working Network Tab such as Pale Moon (I haven't used this yet)
+* Understanding of tools for debugging such as a flash-compatible browser with a working Network Tab such as Pale Moon (I haven't used this yet)
 * NGROK for HTTP request interceptions (will be covered in a later version, may not be necessary if you work in a Flash-compatible browser with a working Network tab)
 * Patience
 
