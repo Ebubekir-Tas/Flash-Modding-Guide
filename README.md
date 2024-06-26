@@ -236,3 +236,19 @@ Now if you want you can get a backup indicatorMC83 from a different SWF file and
 * Change Head Color in-game with key presses [super-expert]
 
 ![Recording17-ezgif com-crop](https://github.com/Ebubekir-Tas/Flash-Modding-Guide/assets/65694925/324db961-bb6a-47a9-952e-875e506e2320)
+
+* Bypass Sitelocking
+
+* Interception of HTTP Requests with NGROK to diagnose the loading screen problems that come out of the box with 588 and 598 SWF versions
+
+* HTTP vs TCP vs UDP
+
+* Oracle Cloud + Linux for server hosting + Bypassing Firewall restriction
+
+* Andre-Jar emulator deep dives
+
+* How to create your own server emulator in JavaScript (not sure if I'll commit to this one)
+
+* Server commands in-game
+
+* Client-sided keypress commands in-game
